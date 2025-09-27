@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Navdeep 👋</h1>
+<h1 align="center">Hi, I'm Navdeep <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30"></h1>
 
 <p align="center">
   <em>CS Undergraduate @ University of Toronto • Full-Stack Developer • ML & AI Enthusiast</em>
